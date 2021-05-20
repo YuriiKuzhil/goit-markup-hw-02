@@ -97,7 +97,7 @@ footer {
 
 /* OTHER SECTION */
 .section-title {
-  font-weight: bold;
+  font-weight: 700;
   font-size: 36px;
   line-height: 1.17;
   color: var(--title-text-color);
@@ -119,12 +119,10 @@ footer {
 .team-list .description {
   font-size: 16px;
   line-height: 1.19;
-  
-} 
-.team-list .description-title{
+}
+.team-list .description-title {
   font-weight: 500;
 }
-
 
 /* FOOTER */
 .address {
@@ -155,18 +153,13 @@ footer {
   background-color: var(--accent-color);
 }
 .work-list .description-title {
-font-weight: 700;
-font-size: 18px;
-line-height: 2;
-letter-spacing: 0.06em;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
 }
 .work-list .description {
   font-size: 16px;
   line-height: 1.88;
   color: var(--primary-text-color);
 }
-/* портфоліо
-заголовки #212121,font-family: Roboto; font-weight: bold;
- колір тексту #757575 font-weight: bold; font-weight: normal;
-
-
